@@ -1,19 +1,11 @@
-ShoppyGlobe Ecommerce
+# Shoppy_Globe-React Ecommerce
 
-- With Redux for Product management
-- Tailwind Css
-- Responsive Design
 
--- Usage for Local with github link:-
+Step1: git clone https://github.com/arjunchuhan6/Shoppy_Globe-React.git
+Step2: Extrect the zip file and ender the file
+Step3: Open terminal and run "Npm init" to Install Required Dependencies
+Step4: ALso install redux and toolkit by using (a) npm install @reduxjs/toolkit (b) npm install react-redux
+Step4: npm run dev or npm start for run the project.
+Step5: click the showing link
 
-1. git clone https://github.com/AbbasGawali/shoppyGlobeEcommerceAppReactRedux7.7
-2. cd "folderName"
-3. npm install
-4. npm run dev
-
--- Usage for Local with source folder:-
-
-1. cd "folderName"
-2. npm install
-3. npm run dev
-# Shoppy_Globe-React
+used Redux and tailwind-framework so you need to install these 
